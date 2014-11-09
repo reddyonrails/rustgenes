@@ -1,4 +1,4 @@
 rustgenes
 =========
 
-Bioinformatics dealt with Rust language. 
+Bioinformatics by Rust language. 
